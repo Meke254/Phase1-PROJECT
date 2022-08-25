@@ -17,9 +17,9 @@ Derived profit from(cost minus budget)
 we used mean to obtain the average budget needed
 ## Results and Conclusion
 + What Genres to make?
-![](graph%201.png)
-![](graph%2021.png)
+![](Graphs/graph%201.png)
+![](Graphs/graph%2021.png)
 + Which Director to use to make the movie?
-![](graph%203.png)
+![](Graphs/graph%203.png)
 
-+ Summary of the main findings are in the presentation and the full analysis is on jupyter Notebook and a pdf version here
++ Summary of the main findings are in the presentation and the full analysis is on jupyter Notebook and a pdf version here.
