@@ -17,6 +17,8 @@ Derived profit from(cost minus budget)
 we used mean to obtain the average budget needed
 ## Results and Conclusion
 + What Genres to make?
+
+
 ![](Graphs/graph%201.png)
 ![](Graphs/graph%2021.png)
 + Which Director to use to make the movie?
