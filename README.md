@@ -18,11 +18,8 @@ we used mean to obtain the average budget needed
 ## Results and Conclusion
 + What Genres to make?
 ![](graph%201.png)
-![](graph%202.png)
+![](graph%2021.png)
 + Which Director to use to make the movie?
-
 ![](graph%203.png)
-+ The estimated budget needed?
-![](graph%204.png)
 
 + Summary of the main findings are in the presentation and the full analysis is on jupyter Notebook and a pdf version here
