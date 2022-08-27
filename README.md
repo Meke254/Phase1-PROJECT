@@ -1,7 +1,7 @@
 ![](microsoft.jpg)
 Aurthor: Brian Mark Mathenge
 # General Overview
-The motion picture industry comprises the technological and commercial institutions of filmmaking.Whether it's user streaming or general fil production, a wide range of factors needs to be considered before making a decision as to whether the film industry would be a lucrative venture for Microsoft Corporation.
+The motion picture industry comprises the technological and commercial institutions of filmmaking.Whether it's user streaming or general film production, a wide range of factors needs to be considered before making a decision as to whether the film industry would be a lucrative venture for Microsoft Corporation.
 The descriptive analysis finds that certain movie genres,directors and level of monetary investment produce significantly better results.
 
 # Business Problem
